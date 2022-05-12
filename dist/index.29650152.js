@@ -1,0 +1,1 @@
+const handleOnGoButtonClick=()=>{const{value:e}=document.getElementById("input-box");document.getElementById("iframe").src=e};

@@ -1,0 +1,22 @@
+{
+  "name": "iframe_viewer",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --detailed-report 10 --no-source-maps",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint \"**/*.js\" --ignore-pattern node_modules/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunselvakumar/iframe_viewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunselvakumar/iframe_viewer/issues"
+  },
+  "homepage": "https://github.com/arunselvakumar/iframe_viewer#readme"
+}
